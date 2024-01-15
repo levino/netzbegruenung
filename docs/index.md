@@ -2,7 +2,7 @@
 
 ## Vision
 
-Wir verpflichten uns zur Förderung einer nachhaltigen, gerechten und demokratischen digitalen Welt. Wir, der Verein Netzbegrünung e.V., sehen uns als digitale Pioniere, die die Ideale der Grünen Partei in Deutschland in das Herz der digitalen Revolution tragen.
+Wir verpflichten uns zur Förderung einer nachhaltigen, gerechten und demokratischen digitalen Welt. Wir, der Verein Netzbegrünung e.V., sehen uns als digitale Pioniere, die die Ideale der Grünen in das Herz der digitalen Revolution tragen.
 
 ## Grundsätze
 
