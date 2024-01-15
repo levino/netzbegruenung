@@ -1,3 +1,7 @@
+---
+sidebar_position: 0
+---
+
 # Netzbegrünungsmanifest
 
 ## Vision
@@ -33,3 +37,11 @@ Wir ermutigen die Entwicklung und Nutzung von Technologien, die einen positiven 
 ## Engagement
 
 Als Teil der grünen Bewegung sind wir aktiv in der politischen Landschaft vertreten, um unsere Ziele voranzutreiben. Wir kooperieren mit politischen Entscheidungsträgern, Organisationen und der Zivilgesellschaft, um eine nachhaltige und gerechte digitale Zukunft zu gestalten.
+
+Tita von Rössing
+Rodewald
+Könnecke
+Dr. Hasso Bartels
+Erich Kleuker
+
+Lohnunternehmer:

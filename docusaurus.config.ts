@@ -55,7 +55,7 @@ const config: Config = {
       title: "Netzbegrünung - Politische Arbeit",
       items: [
         {
-          href: "https://github.com/levino/netzbegrueunung",
+          href: "https://github.com/levino/netzbegruenung",
           label: "GitHub",
           position: "right",
         },
