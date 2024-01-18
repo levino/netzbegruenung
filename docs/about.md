@@ -2,7 +2,7 @@
 
 Ich habe ein Video darüber gemacht, wie ich mir die Nutzung dieser Homepage, von Github und git in etwa vorstelle.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_s3sB4mgStg?si=lmZEru_yCgazMjvX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe title="Intro Github und Docusaurus" width="560" height="315" src="https://peertube.netzbegruenung.de/videos/embed/94910ed8-d03a-477e-a69f-368a1151d785" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"/>
 
 ## Weitere Links
 
